@@ -11,7 +11,7 @@ import Resume from './Resume'
 const Main = () =>
     (
         <Switch>
-            <Route exact path="/" component={HomePage} />
+            <Route exact path="/React-Portfolio" component={HomePage} />
             <Route path="/AboutMe" component={AboutMe} />
             <Route path="/Contact" component={Contact} />
             <Route path="/Resume" component={Resume} />
