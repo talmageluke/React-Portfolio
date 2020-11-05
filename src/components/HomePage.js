@@ -14,7 +14,7 @@ export default class HomePage extends Component {
                             <h1>Full Stack Web Developer</h1>
 
                             <hr />
-                            <p>HTML/CSS || Node.js || JavaScript || Express.js || React (kinda) || MySQL|| MongoDB || Bootstrap || Discord.js</p>
+                            <p>HTML/CSS || Node.js || JavaScript || Express.js || React || MySQL|| MongoDB || Bootstrap || Discord.js</p>
 
                             <div className="social-links">
                                 <a href="https://www.linkedin.com/in/talmage-lucas-779a6a1b8/" rel="noreferrer" target="_blank" >
